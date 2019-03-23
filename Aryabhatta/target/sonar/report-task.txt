@@ -1,0 +1,6 @@
+projectKey=Aryabhataa:Aryabhatta
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=Aryabhataa%3AAryabhatta
+ceTaskId=AWkGqn2FajTeG0u1mWk3
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWkGqn2FajTeG0u1mWk3
