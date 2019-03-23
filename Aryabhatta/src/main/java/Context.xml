@@ -11,6 +11,8 @@
  	<bean id="Fortune"
  	class="Aryabhataa.Aryabhatta.coachFortune">
  	</bean>
+    
+    
  	
  	<bean id="myCoach"
  		class="Aryabhataa.Aryabhatta.footballCoach" 
